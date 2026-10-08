@@ -1,6 +1,6 @@
 ## Hi I'm Lee
 
--I'm currently working on entering the DevOps field
+-I'm currently entering the DevOps and Cloud architecture field
 
 -I'm recently learned backend development (Python, Go, C), and I've been playing a lot of randomizers and board games
 
